@@ -8,4 +8,4 @@ Tools used:
 - Optuna
 
 About Dataset
-The data set consists of multiple multivariate time series. Each time series is from a different engine – i.e., the data can be considered to be from a fleet of engines of the same type. You can find the data [here](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps)
+The data set consists of multiple multivariate time series. Each time series is from a different engine. The data can be considered to be from a fleet of engines of the same type. You can find the data [here](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps)
