@@ -5,6 +5,7 @@ The project implements some deep learning models to predict the remaining useful
 Tools used:
 - Tensorflow
 - Scikit earn
+- Optuna
 
 About Dataset
 The data set consists of multiple multivariate time series. Each time series is from a different engine – i.e., the data can be considered to be from a fleet of engines of the same type. You can find the data [here](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps)
